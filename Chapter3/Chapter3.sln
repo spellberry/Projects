@@ -11,7 +11,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PlayerInventory", "PlayerIn
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TicTacToe", "TicTacToe\TicTacToe.vcxproj", "{012F003C-7CCC-45CE-92CA-3223C74C2C99}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "W", "W\W.vcxproj", "{63315027-3E4C-413F-A91B-1FFA962054DB}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WordJumble", "W\W.vcxproj", "{63315027-3E4C-413F-A91B-1FFA962054DB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SoloWorldJumble", "SoloWorldJumble\SoloWorldJumble.vcxproj", "{742BD406-F6D4-4A9A-A2E8-6ABE275781E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +63,14 @@ Global
 		{63315027-3E4C-413F-A91B-1FFA962054DB}.Release|x64.Build.0 = Release|x64
 		{63315027-3E4C-413F-A91B-1FFA962054DB}.Release|x86.ActiveCfg = Release|Win32
 		{63315027-3E4C-413F-A91B-1FFA962054DB}.Release|x86.Build.0 = Release|Win32
+		{742BD406-F6D4-4A9A-A2E8-6ABE275781E2}.Debug|x64.ActiveCfg = Debug|x64
+		{742BD406-F6D4-4A9A-A2E8-6ABE275781E2}.Debug|x64.Build.0 = Debug|x64
+		{742BD406-F6D4-4A9A-A2E8-6ABE275781E2}.Debug|x86.ActiveCfg = Debug|Win32
+		{742BD406-F6D4-4A9A-A2E8-6ABE275781E2}.Debug|x86.Build.0 = Debug|Win32
+		{742BD406-F6D4-4A9A-A2E8-6ABE275781E2}.Release|x64.ActiveCfg = Release|x64
+		{742BD406-F6D4-4A9A-A2E8-6ABE275781E2}.Release|x64.Build.0 = Release|x64
+		{742BD406-F6D4-4A9A-A2E8-6ABE275781E2}.Release|x86.ActiveCfg = Release|Win32
+		{742BD406-F6D4-4A9A-A2E8-6ABE275781E2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
