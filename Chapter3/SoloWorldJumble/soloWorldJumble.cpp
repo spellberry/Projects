@@ -1,5 +1,5 @@
 //Coding Word Jumble alone
-//This project is very similar to Word Jumble. It is with modified codeand it is written from scratch in a slightly different way.
+//This project is very similar to Word Jumble. It is with modified code and it is written from scratch in a slightly different way.
 
 
 #include <iostream>
