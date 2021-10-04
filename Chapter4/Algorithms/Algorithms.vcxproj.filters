@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="heroesInventory2.0.cpp">
+    <ClCompile Include="highScoresProgram.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

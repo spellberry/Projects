@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="heroesInventory2.0.cpp">
+    <ClCompile Include="heroInventroy3.0.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
