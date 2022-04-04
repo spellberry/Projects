@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Player.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="surface.cpp">
+      <Filter>Template</Filter>
+    </ClCompile>
+    <ClCompile Include="template.cpp">
+      <Filter>Template</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Timer</Filter>
+    </ClCompile>
+    <ClCompile Include="Background.cpp">
+      <Filter>Background</Filter>
+    </ClCompile>
+    <ClCompile Include="game.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyTracker.cpp">
+      <Filter>EntityTrackers</Filter>
+    </ClCompile>
+    <ClCompile Include="Hitbox.cpp">
+      <Filter>Hitbox</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Snowball.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="SnowballTracker.cpp">
+      <Filter>EntityTrackers</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionDetector.cpp">
+      <Filter>EntityTrackers</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="lib\SDL2-2.0.3\include\SDL_events.h" />
+    <ClInclude Include="lib\SDL2-2.0.3\include\SDL_scancode.h" />
+    <ClInclude Include="Player.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="surface.h">
+      <Filter>Template</Filter>
+    </ClInclude>
+    <ClInclude Include="template.h">
+      <Filter>Template</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Timer</Filter>
+    </ClInclude>
+    <ClInclude Include="Background.h">
+      <Filter>Background</Filter>
+    </ClInclude>
+    <ClInclude Include="game.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyTracker.h">
+      <Filter>EntityTrackers</Filter>
+    </ClInclude>
+    <ClInclude Include="Hitbox.h">
+      <Filter>Hitbox</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Snowball.h">
+      <Filter>Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="SnowballTracker.h">
+      <Filter>EntityTrackers</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionDetector.h">
+      <Filter>EntityTrackers</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="_readme.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Player">
+      <UniqueIdentifier>{6443c058-0d21-43ef-ab9c-1cdc05ccf568}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Template">
+      <UniqueIdentifier>{e3f3f412-08be-49b6-a8ed-e329e404b45d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Timer">
+      <UniqueIdentifier>{ed3a2c01-55e3-4f04-9c22-bf63beba1e73}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Background">
+      <UniqueIdentifier>{0bca843f-eadd-4ccf-9e36-4d845f6eb274}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{8dbe56be-5cff-4c77-9be2-b0f27429f709}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hitbox">
+      <UniqueIdentifier>{c6f16a4e-d0ab-4958-87fd-82f92000eb0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Entities">
+      <UniqueIdentifier>{5d8e7e41-5202-4553-ae2b-1d0a4f2760e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="EntityTrackers">
+      <UniqueIdentifier>{0f3cf2bf-9865-47ca-96fc-02748d9aef58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Menu">
+      <UniqueIdentifier>{f1a53075-fdb6-4565-9bdb-403896873f2a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
